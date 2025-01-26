@@ -3,11 +3,11 @@
 Welcome to my professional resume! This repository contains my resume, showcasing my skills, experience, and achievements. Feel free to check it out, and contact me if you would like to discuss opportunities, collaborations, or anything related to my work.
 
 ## Table of Contents
-- [About Me](#about-me)
-- [Skills](#skills)
-- [Experience](#experience)
-- [Education](#education)
-- [Contact](#contact)
+- 🔵 [About Me](#about-me)
+- 💻 [Skills](#skills)
+- 💼 [Experience](#experience)
+- 🎓 [Education](#education)
+- 📞 [Contact](#contact)
 
 ## About Me
 Hi, I'm Taki Al Zaki! I am a skilled MLOps and DevOps engineer with experience in system monitoring, incident management, automation, and infrastructure management. I specialize in managing cloud infrastructure, automating repetitive tasks, and ensuring system reliability, scalability, and security. My expertise includes tools like Terraform, Ansible, Prometheus, Grafana, and AWS.
